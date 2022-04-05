@@ -1,11 +1,11 @@
 .text-yellow {
-    color: yellow !important;
-    font-weight: 700
+    color: rgb(237, 237, 66) !important;
+    font-weight: 370
     
 }
 .text-big {
 
-    font-weight: 550  
+    font-weight: 350  
 }
 
 #header-up {
