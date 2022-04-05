@@ -326,7 +326,7 @@ label {
 }
 .header-wrapper{}
 .header-text span {
-	color: #575f65;
+	color: #ffffff;
 	font-size: 13px;
 	margin-right: 23px;
 }
@@ -337,7 +337,7 @@ label {
 .header-icon{
 }
 .header-icon a {
-	color: #575f65;
+	color: #ffffff;
 	font-size: 13px;
 	margin-right: 15px;
 	transition: .3s;
