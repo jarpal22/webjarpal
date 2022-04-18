@@ -326,7 +326,7 @@ label {
 }
 .header-wrapper{}
 .header-text span {
-	color: #ffffff;
+	color: #f4f5f7;
 	font-size: 13px;
 	margin-right: 23px;
 }
@@ -604,7 +604,7 @@ label {
 	min-height: 950px;
 }
 .slider-height-2{
-	min-height: 800px;
+	min-height: 650px;
 }
 .single-slider {
 	background-size: cover;
@@ -887,7 +887,7 @@ label {
 	width: 120px;
 	right: 0;
 	margin: auto;
-	top: 51px;
+	top: 80px;
 }
 
 /* 6. Product */
